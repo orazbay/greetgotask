@@ -7,7 +7,7 @@
 ### Чтобы скачать с гитхаба проект запускаем команду:
 - git clone https://github.com/orazbay/greetgotask.git
 ### Заходим в папку:
-- greetgotask(cd greetgotask )
+- greetgotask (cd greetgotask )
 ### И запускаем(для остановки Ctrl+C):
 - mvn spring-boot:run
 ### Ждём когда запуститься сервер. После запуска сервера заходим в браузере по адресу:
