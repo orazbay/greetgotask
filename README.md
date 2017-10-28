@@ -2,7 +2,8 @@
 ## Чтобы запустить нужно иметь на компьютере:
 - [Maven 3.1.0](http://maven.apache.org/)
 - Java 1.7+
-<br/>
+
+
 ### Чтобы скачать с гитхаба проект запускаем команду:
 - git clone https://github.com/orazbay/greetgotask.git
 ### Заходим в папку:
